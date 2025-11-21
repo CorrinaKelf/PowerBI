@@ -1,0 +1,24 @@
+Latest Measure = 
+ ---Measure calculates latest available information for selected measure
+CALCULATE([MeasureName],
+    MAX(DimDateColumn) = DimDateColumn
+)
+
+Previous Month Variance = 
+---Difference between previous month and latest selected month
+VAR Prev =
+CALCULATE(
+    [Latest Measure],
+    DATEADD(
+        DimDateColumn,-1,MONTH)
+)
+RETURN
+[Latest Measure] - Prev
+
+PreviousMonthIcon = 
+---Arrow or dash icon determined by variance from previous month
+SWITCH(TRUE(),
+[Previous Month Variance] = 0, UNICHAR(11166),
+[Previous Month Variance] < 0, UNICHAR(11167),
+[Previous Month Variance] > 0, UNICHAR(11165), UNICHAR(11166)
+)

@@ -3,7 +3,10 @@ This repository contains examples of my work which I'm able to share publicly, m
 
 ## Credentials
 #### [PL300 Certification - Data Analyst Associate](https://learn.microsoft.com/en-gb/users/corrinakelf-1679/credentials/242d365ad621ead0)
-#### [Data Literacy for Data Professionals](https://www.datacamp.com/completed/statement-of-accomplishment/track/c4a5a12749457007e183e5d8758581b55c7b6912)
+#### [Data Literacy for Data Professionals](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Data%20Literacy%20-%20Data%20Professionals.pdf)
+#### [Beginner SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Beginner%20SQL.pdf)
+#### [Intermediate SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Intermediate%20SQL.pdf)
+#### [Presenting Data to Multi Professional Teams](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Presenting%20data%20to%20multi%20professional%20teams.pdf)
 
 ## Power BI Resources
 * [DAX](#DAX)

@@ -7,6 +7,7 @@ This repository contains examples of my work which I'm able to share publicly, m
 #### [Beginner SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Beginner%20SQL.pdf)
 #### [Intermediate SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Intermediate%20SQL.pdf)
 #### [Presenting Data to Multi Professional Teams](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Presenting%20data%20to%20multi%20professional%20teams.pdf)
+#### [Latest CV](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Corrina%20Kelf%20CV%20July%202025.pdf)
 
 ## Power BI Resources
 * [DAX](#DAX)

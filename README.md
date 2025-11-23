@@ -1,10 +1,13 @@
 # Power BI ReadME
-This repository contains examples of my work which I'm able to share publicly, as well as a few helpful resources.
+This repository contains examples of my work which I'm able to share publicly, my credentials & a few helpful resources.
 
-## Table of contents
-* [DAX](#dax)
-* [Wireframing & Themes](#Design)
-* [Icons](#icons)
+## Power BI Credentials
+#### [PL300 Certification - Data Analyst Associate](https://learn.microsoft.com/en-gb/users/corrinakelf-1679/credentials/242d365ad621ead0)
+
+## Power BI Resources
+* [DAX](#DAX)
+* [Design](#Design)
+* [Icons](#Icons)
 * [Learning](#Learning)
 * [Datasets](#Datasets)
 
@@ -30,7 +33,7 @@ Free icons for personal projects & attribution for public projects.
 Unicode for images and icons which can be used & formatted as text within reports.
 
 #### [uxwing](https://uxwing.com/)
-Ffree icons that can be used for commerical projects wihhout attribution. 
+Free icons that can be used for commerical projects wihhout attribution. 
 
 ## Learning
 

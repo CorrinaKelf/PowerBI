@@ -1,8 +1,9 @@
 # Power BI ReadME
 This repository contains examples of my work which I'm able to share publicly, my credentials & a few helpful resources.
 
-## Power BI Credentials
+## Credentials
 #### [PL300 Certification - Data Analyst Associate](https://learn.microsoft.com/en-gb/users/corrinakelf-1679/credentials/242d365ad621ead0)
+#### [Data Literacy for Data Professionals](https://www.datacamp.com/completed/statement-of-accomplishment/track/c4a5a12749457007e183e5d8758581b55c7b6912)
 
 ## Power BI Resources
 * [DAX](#DAX)

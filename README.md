@@ -7,6 +7,7 @@ This repository contains examples of my work which I'm able to share publicly, m
 #### [Beginner SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Beginner%20SQL.pdf)
 #### [Intermediate SQL](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Intermediate%20SQL.pdf)
 #### [Presenting Data to Multi Professional Teams](https://github.com/CorrinaKelf/PowerBI/blob/main/Credentials/Presenting%20data%20to%20multi%20professional%20teams.pdf)
+#### [Snowflake Hands on Essentials Badge](https://achieve.snowflake.com/e496570d-a0cf-4221-92fa-4f5888ea0f3f#acc.1SR2szuP)
 
 ## Power BI Resources
 * [DAX](#DAX)
